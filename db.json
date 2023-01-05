@@ -1,0 +1,30 @@
+{
+  "_default": {
+    "1": {
+      "name": "template 1",
+      "email_field": "email",
+      "phone_field": "phone",
+      "text_field": "text",
+      "date_field": "date"
+    },
+    "2": {
+      "name": "template 2",
+      "another_email_field": "email",
+      "another_phone_field": "phone",
+      "another_date_field": "date"
+    },
+    "3": {
+      "name": "template 3",
+      "new_email_field": "email"
+    },
+    "4": {
+      "name": "template 4",
+      "only_phone_field": "phone"
+    },
+    "5": {
+      "name": "template 5",
+      "date__field": "date",
+      "email__field": "email"
+    }
+  }
+}
